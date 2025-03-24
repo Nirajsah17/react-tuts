@@ -1,12 +1,17 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. How react is different from other UI Library
+2. UseMemo and useCallbacks
+3. HOC
+4. What is Redux and what problem does it solved 
+5. Webpack and its functionality
+4. What are Error Boundary
+5. What is code splittings
+6. What we have for type check in react and typescripts
+7. Performance optimizations of react apps
+8. Remove duplicate from string
+9. What is the order of console.log in react
+10. What are SPA
+11. Virtual DOM
+12. Reat in reacts (Functional and class bsed compoent)
+13. useMemo and useCallbacks
+14. Error Boundary 
